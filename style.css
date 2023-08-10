@@ -1,0 +1,20 @@
+:root {
+  --primary: #f5810e;
+  --bg: white;
+}
+/*Footer*/
+footer {
+  background-color: var(--primary);
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 1rem;
+}
+
+footer .credit {
+  color: black;
+  font-size: 1rem;
+}
+footer .credit a {
+  color: black;
+  font-weight: 200;
+}
